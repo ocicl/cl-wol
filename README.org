@@ -1,0 +1,10 @@
+* cl-wol
+
+Wake on LAN (WoL) system for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dnaeon/cl-wol.git   |
+| commit  | 7e15d43  |
+| systems | cl-wol |
+|---------+-------------------------------------------|
+
