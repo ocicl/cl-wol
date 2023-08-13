@@ -2,9 +2,8 @@
 
 Wake on LAN (WoL) system for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/dnaeon/cl-wol.git   |
-| commit  | 574cd46  |
-| systems | cl-wol |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/dnaeon/cl-wol.git |
+| commit  | 574cd46                                  |
+| systems | (cl-wol.core cl-wol.cli)                 |
+|---------+------------------------------------------|
