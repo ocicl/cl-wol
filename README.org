@@ -7,4 +7,4 @@ Wake on LAN (WoL) system for Common Lisp
 | commit  | 574cd46                                  |
 | systems | cl-wol.core cl-wol.cli                   |
 |---------+------------------------------------------|
- 
+  
